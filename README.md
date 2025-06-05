@@ -1,30 +1,30 @@
 # Randomforestrepo
-![Project Preview](https://github.com/yourusername/yourrepo/raw/main/preview.png)
+
 Osteoporosis Diagnosis Using Machine Learning and Deep Learning
-#Overview
+# Overview
 This is my research project focused on diagnosing osteoporosis using Machine Learning (ML) and Deep Learning (DL) techniques.
 
 The objective is to replace the conventional DXA scan method with Cone-Beam Computed Tomography (CBCT) scans, which are more accessible and cost-effective. By leveraging advanced ML/DL algorithms, this project aims to enable accurate and scalable osteoporosis screening.
 
-Project Description
-Data Source: CBCT (Cone-Beam Computed Tomography) scans
+# Project Description
+  Data Source: CBCT (Cone-Beam Computed Tomography) scans
 
-Goal: Predict T-scores for three key subregions of bone:
+  Goal: Predict T-scores for three key subregions of bone:
 
-Cortical bone
+   Cortical bone
 
-Trabecular bone
+   Trabecular bone
 
-Spinal axis
+   Spinal axis
 
-Machine Learning Workflow
+# Machine Learning Workflow
 Feature Engineering:
 
 Extracted radiomic features from CBCT scan images.
 
 Performed feature selection to reduce dimensionality and enhance model performance.
 
-Modeling:
+## Modeling:
 
 Trained a Random Forest Regressor to predict T-scores.
 
