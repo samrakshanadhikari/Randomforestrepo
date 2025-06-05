@@ -43,7 +43,7 @@ Normalizing and resizing input CBCT image slices.
 
 Designing CNN architectures to directly learn from imaging data for improved T-score prediction.
 
-Next Steps
+# Next Steps
 Complete CNN training and compare with traditional ML results.
 
 Experiment with transfer learning using pre-trained models (e.g., ResNet, VGG).
@@ -62,7 +62,7 @@ Jupyter Notebooks for experimentation and documentation
 Author
 Samrakshyan Adhikari
 Undergraduate Research Assistant
-Electrical Engineering Major, Texas State University
-Email: [YourEmail@txstate.edu]
+Computer Engineering Major, Texas State University
+Email: nbb38@txstate.edu
 
  
